@@ -2,6 +2,9 @@
 
 This project demonstrates the development of a parking slot detector using a convolutional neural network (CNN), integrating the model with OpenCV for video segmentation and classification of each parking slot, optimizing the model with ONNX and C++ for performance, and deploying the model using a Flask application in a Docker container.
 
+![image](https://github.com/TheDeepHub/ParkingDetector/assets/159965998/8c760dfc-704a-46ac-aac8-4a553058d87f)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
